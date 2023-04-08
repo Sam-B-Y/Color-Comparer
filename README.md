@@ -11,7 +11,7 @@ _JavaScript_: Comparing 2 colors by converting their RGB values to L*a*b values 
 #### Program 2: [closest.js](https://github.com/Sam-B-Y/Chemistry-IA-Programs/blob/main/closest.js)
 _JavaScript_: Finding the closest pixel in a picture to a given color, **author**. In this example, the program will return the position of the pixel in the image “gradient.jpg” that was the closest to the color (79, 129, 145).
 
-#### Program 3: color.go
+#### Program 3: [color.go](https://github.com/Sam-B-Y/Chemistry-IA-Programs/blob/main/color.go)
 _Go_: **Smith, James**. “Ways to Work out the Average Colour of an Image.” Golang Project Structure, 8 May 2022, https://golangprojectstructure.com/calculating-average-colour-from-images/. 
 In this case, the program will return the average color of the image “12.png” in RGB format.
 
